@@ -2,4 +2,4 @@
 
 Arpit Kumar Regar
 CSE-D<br>
-arpit_kumar@srmpa.edu.in
+arpit_kumar@srmap.edu.in
