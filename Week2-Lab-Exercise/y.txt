@@ -1,0 +1,25 @@
+786: number
+main : identifier
+(
+)
+{ 
+int : keyword 
+x : identifier
+,
+y : identifier
+==: relational operator EQ 
+7: number
+. 
+86: number
+;
+/': invalid lexeme
+<: relational operator LT
+>: relational operator GT
+<: relational operator LT
++
+<=: relational operator LE
+!
+,
+!=: relational operator NE
+Prince : identifier
+comment did not close
